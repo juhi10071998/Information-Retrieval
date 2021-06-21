@@ -7,8 +7,8 @@
 
 ### Requirements
 
-*Python 3.6
-*Jupyter Notebooks
+* Python 3.6
+* Jupyter Notebooks
 *Google's Fake News Word Embedding
 *nltk : pip install nltk
 *pickle : pip install pickle
