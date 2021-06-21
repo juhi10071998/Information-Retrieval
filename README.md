@@ -5,18 +5,18 @@
 #### 
 [Design Doc](https://docs.google.com/document/d/1VgWjNgLPa2f-xUXzArxnN3hKYnhJVxk64PtsIyAEVUY/edit?usp=sharing)
 
-### Requirements
+## Requirements
 
 * Python 3.6
 * Jupyter Notebooks
-*Google's Fake News Word Embedding
-*nltk : pip install nltk
-*pickle : pip install pickle
-*re : pip install regex
-*numpy : pip install regex
-*itertools : pip install more-itertools
+* Google's Fake News Word Embedding
+* nltk : pip install nltk
+* pickle : pip install pickle
+* re : pip install regex
+* numpy : pip install regex
+* itertools : pip install more-itertools
 
-### Run
+## Run
 
 Open all the files in Google Colaboratory or Jupyter Notebooks
 1. Run Steps 2 and 3 only for the first time
