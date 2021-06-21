@@ -4,3 +4,23 @@
 
 #### 
 [Design Doc](https://docs.google.com/document/d/1VgWjNgLPa2f-xUXzArxnN3hKYnhJVxk64PtsIyAEVUY/edit?usp=sharing)
+
+### Requirements
+
+*Python 3.6
+*Jupyter Notebooks
+*Google's Fake News Word Embedding
+*nltk : pip install nltk
+*pickle : pip install pickle
+*re : pip install regex
+*numpy : pip install regex
+*itertools : pip install more-itertools
+
+### Run
+
+Open all the files in Google Colaboratory or Jupyter Notebooks
+1. Run Steps 2 and 3 only for the first time
+
+2. Run all the cells in the Preprocessing.py. The script builds the inverted index and stores it in the same directory.
+3. Run WordEmbedding.py to use the word2vec model which calculates the similarity scores of all the unique words in the dataset
+4. Run Search.py and to search for keyword(s) which will return the top 10 relevant documents
